@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanxuchen
 - 👀 I’m interested in stock
-- 🌱 I’m currently learning python
+- 🌱 I’m learning python currently
 - 💞️ I’m looking to collaborate on stock AI
 - 📫 How to reach me 18766459@qq.com
 
