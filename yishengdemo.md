@@ -120,16 +120,16 @@
 5. **加强临床研究**：需要加强无水酒精消融治疗室性心律失常的临床研究，特别是关于长期安全性和有效性的研究，为临床实践提供更多的循证医学证据[[25](https://xadxyylib.yuntsg.com/ueditor/jsp/upload/file/20240322/1711076067153095390.pdf)]。
 6. **多学科协作**：无水酒精消融的临床应用应该促进心律失常多学科协作的发展，包括心脏电生理学、心血管影像学、心血管外科学等多学科的协作，提高治疗效果，减少并发症[[29](https://icuguideline.com/wp-content/uploads/2022/07/%E5%AE%A4%E6%80%A7%E5%BF%83%E5%BE%8B%E5%A4%B1%E5%B8%B8%E4%B8%AD%E5%9B%BD%E4%B8%93%E5%AE%B6%E5%85%B4%E8%AF%86%E5%9F%BA%E5%B1%82%E7%89%88.pdf)]。
 ## 参考文献
-[0] 无水乙醇在介入治疗中的现状与研究进展 - 汉斯出版社. https://www.hanspub.org/journal/paperinformation?paperid=35886.
-[1] 导管消融联合Marshall 静脉酒精消融治疗持续性房颤的meta 分析. http://www.zgyydb.ac.cn/zgyydb/article/html/202431022.
-[2] 巧用"酒精" 济宁市第一人民医院成功实施Marshall静脉无水酒精消融术 ... https://www.jnrmyy.com/wap/wap.php?action=article&id=9867.
-[4] 用酒精解"心病" 多年房颤医生巧用酒消融"心病". https://m.mp.oeeee.com/a/BAAFRD000020200715345242.html.
-[5] 让心肌喝酒，解顽固心疾——Marshall韧带消融解除顽固房颤. http://www.zxyy.cn/content/2021/ylkx/21304.html.
-[13] Alcohol Ablation for Ventricular Tachycardia - PMC - PubMed Central. https://pmc.ncbi.nlm.nih.gov/articles/PMC8158441/.
-[17] 梗阻性肥厚型心肌病室间隔心肌消融术中国专家共识（2011）. https://ccdas.pmphai.com/appguide/toPcDetail?sessionId=&knowledgeLibPrefix=guide&id=0001AA100000000EGDTR.
-[25] [PDF] 室性心律失常中国专家共识基层版. https://xadxyylib.yuntsg.com/ueditor/jsp/upload/file/20240322/1711076067153095390.pdf.
-[27] 抗心律失常药物的非临床心血管系统安全性评价研究进展. https://apzx.hmc.edu.cn/art/2021/10/13/art_9936_291.html.
-[29] [PDF] 室性心律失常中国专家共识基层版 - 重症医学指南. https://icuguideline.com/wp-content/uploads/2022/07/%E5%AE%A4%E6%80%A7%E5%BF%83%E5%BE%8B%E5%A4%B1%E5%B8%B8%E4%B8%AD%E5%9B%BD%E4%B8%93%E5%AE%B6%E5%85%B4%E8%AF%86%E5%9F%BA%E5%B1%82%E7%89%88.pdf.
-[30] 桑才华: Marshall静脉无水酒精消融的适应症选择 - 严道医声网. https://www.drvoice.cn/v2/speaker/1358560428482562.
-[31] 桑才华: Marshall静脉无水酒精消融辅助房颤治疗的适应症选择. https://www.drvoice.cn/v2/speaker/178134.
-[36] 孙健: ICE在室性心律失常消融中的作用 - 严道医声网. https://www.drvoice.cn/v2/speaker/1393162047496193. 
+[0] 无水乙醇在介入治疗中的现状与研究进展 - 汉斯出版社. https://www.hanspub.org/journal/paperinformation?paperid=35886.  
+[1] 导管消融联合Marshall 静脉酒精消融治疗持续性房颤的meta 分析. http://www.zgyydb.ac.cn/zgyydb/article/html/202431022.  
+[2] 巧用"酒精" 济宁市第一人民医院成功实施Marshall静脉无水酒精消融术 ... https://www.jnrmyy.com/wap/wap.php?action=article&id=9867.  
+[4] 用酒精解"心病" 多年房颤医生巧用酒消融"心病". https://m.mp.oeeee.com/a/BAAFRD000020200715345242.html.  
+[5] 让心肌喝酒，解顽固心疾——Marshall韧带消融解除顽固房颤. http://www.zxyy.cn/content/2021/ylkx/21304.html.  
+[13] Alcohol Ablation for Ventricular Tachycardia - PMC - PubMed Central. https://pmc.ncbi.nlm.nih.gov/articles/PMC8158441/.  
+[17] 梗阻性肥厚型心肌病室间隔心肌消融术中国专家共识（2011）. https://ccdas.pmphai.com/appguide/toPcDetail?sessionId=&knowledgeLibPrefix=guide&id=0001AA100000000EGDTR.  
+[25] [PDF] 室性心律失常中国专家共识基层版. https://xadxyylib.yuntsg.com/ueditor/jsp/upload/file/20240322/1711076067153095390.pdf.  
+[27] 抗心律失常药物的非临床心血管系统安全性评价研究进展. https://apzx.hmc.edu.cn/art/2021/10/13/art_9936_291.html.  
+[29] [PDF] 室性心律失常中国专家共识基层版 - 重症医学指南. https://icuguideline.com/wp-content/uploads/2022/07/%E5%AE%A4%E6%80%A7%E5%BF%83%E5%BE%8B%E5%A4%B1%E5%B8%B8%E4%B8%AD%E5%9B%BD%E4%B8%93%E5%AE%B6%E5%85%B4%E8%AF%86%E5%9F%BA%E5%B1%82%E7%89%88.pdf.  
+[30] 桑才华: Marshall静脉无水酒精消融的适应症选择 - 严道医声网. https://www.drvoice.cn/v2/speaker/1358560428482562.  
+[31] 桑才华: Marshall静脉无水酒精消融辅助房颤治疗的适应症选择. https://www.drvoice.cn/v2/speaker/178134.  
+[36] 孙健: ICE在室性心律失常消融中的作用 - 严道医声网. https://www.drvoice.cn/v2/speaker/1393162047496193.   
